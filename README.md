@@ -1,2 +1,6 @@
-# haps
-内置 MEMS 压力传感器的数字气压计 | A digital barometer with a built-in MEMS pressure sensor.
+# Haps
+# Tips
+很抱歉的通知您，根据比赛的相关原则，在未出排名前，项目不能开源。
+如果您是该项目的使用者，非常感谢你的喜欢，我会在赛后开源，届时您可查看硬件软件所有部分
+敬请期待~ 
+2025-05-18 小关
